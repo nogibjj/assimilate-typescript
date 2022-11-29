@@ -4,6 +4,8 @@ Template for using Typescript
 ## Lesson 2:
 
 To Do:  Build a command-line tool that is a phrase repeater than runs in node.js
+* phrase.js
+
 
 ## Lesson 1:
 
