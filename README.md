@@ -1,11 +1,14 @@
 # assimilate-typescript
 Template for using Typescript
 
+## Lesson 3:  Use command-line library?
+
+To Do:  Use a library for argument parsing and maybe build project with GitHub Actions
+
 ## Lesson 2:
 
 To Do:  Build a command-line tool that is a phrase repeater than runs in node.js
-* phrase.js
-
+* `node phrase.js` 
 
 ## Lesson 1:
 
