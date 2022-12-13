@@ -62,6 +62,10 @@ To run:
 * `make all`
 *  To run either one:  `node invoker.js` and `node invoker2.js`
 
+## Lesson 3:  Continue process of learning about project/structure and modules
+
+https://www.typescriptlang.org/docs/handbook/2/modules.html
+
 
 ## Lesson 2:
 
