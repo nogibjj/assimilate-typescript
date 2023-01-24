@@ -3,9 +3,37 @@
 # assimilate-typescript
 Template for using Typescript
 
+
+## Lesson 5: Build a CLI Tool that utilizes node more with Typescript
+
+
 ## Lesson 4:  Marco Polo Typescript Command-Line Tool
 
 `cd marco-polo`
+
+The entire chain is as follows:
+
+```bash
+install:
+	@echo "Installing typescript"
+	@npm install -g typescript
+	@npm install -g ts-node typescript '@types/node'
+
+build:
+	@echo "Compiling typescript files with --strict"
+	@tsc --strict *.ts 
+
+run:
+	@ts-node *.ts "Marco"
+
+clean:
+	@echo "Deleting all javascript files"
+	@rm -f *.js && rm -f tsmoduleHello/*.js
+
+all: clean build
+```
+
+
 
 
 ## Lesson 3:  Use command-line library?
