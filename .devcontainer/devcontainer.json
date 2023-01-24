@@ -7,7 +7,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot",
 				"ms-azuretools.vscode-docker",
 				"GitHub.copilot-nightly",
 				"ms-vscode.vscode-typescript-next",
