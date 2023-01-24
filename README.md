@@ -3,6 +3,11 @@
 # assimilate-typescript
 Template for using Typescript
 
+## Lesson 4:  Marco Polo Typescript Command-Line Tool
+
+`cd marco-polo`
+
+
 ## Lesson 3:  Use command-line library?
 
 Use a library for argument parsing and maybe build project with GitHub Actions
